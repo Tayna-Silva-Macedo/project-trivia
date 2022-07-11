@@ -29,4 +29,4 @@ O Trivia é um jogo de perguntas e respostas. Com esta aplicação o usuário é
 
 ## Prévia
 
-![Project Gif](./TrybeWallet.gif)
+![Project Gif](./Trivia.gif)
