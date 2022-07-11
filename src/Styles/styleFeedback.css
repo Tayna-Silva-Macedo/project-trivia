@@ -1,0 +1,46 @@
+.card-feedback {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.feedback-container {
+  align-items: center;
+  background-color: #c1c9c8;
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.feedback-container p {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.feedback-container .btn {
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  margin-bottom: 7px;
+  padding: 10px;
+  width: 80%;
+}
+
+.feedback-container .btn-play-again {
+  background-color: #3a89c9;
+}
+
+.feedback-container .btn-ranking {
+  background-color: #f26c4f;
+}
+
+.feedback-container img {
+  width: 200px;
+}

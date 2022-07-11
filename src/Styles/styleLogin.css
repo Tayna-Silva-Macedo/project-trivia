@@ -1,0 +1,98 @@
+.image-div {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: #1d5d9b;
+}
+
+.login-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.login {
+  background-color: #092b5a;
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.8);
+  padding: 20px 40px;
+  width: 500px;
+}
+
+.image {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  width: 400px;
+}
+
+.inputs {
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.label {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.input-class {
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 7px;
+  width: 100%;
+}
+
+.buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.paragrafo1 {
+  align-self: start;
+  color: whitesmoke;
+  font-family: Arial , Helvetica , sans-serif;
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: auto;
+  text-align: center;
+}
+
+.paragrafo2 {
+  align-self: start;
+  color: whitesmoke;
+  font-family: Arial , Helvetica , sans-serif;
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  margin-bottom: 7px;
+  padding: 10px;
+  width: 100%;
+}
+
+.btn-settings {
+  background-color: #f26c4f;
+}
+
+.btn-play {
+  background-color: #3a89c9;
+}
+
+.btn-play:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
