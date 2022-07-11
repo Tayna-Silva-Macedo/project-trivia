@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-trivia/static/css/main.120fb906.chunk.css",
+    "main.js": "/project-trivia/static/js/main.9ec7fa84.chunk.js",
+    "main.js.map": "/project-trivia/static/js/main.9ec7fa84.chunk.js.map",
+    "runtime-main.js": "/project-trivia/static/js/runtime-main.33b57c0b.js",
+    "runtime-main.js.map": "/project-trivia/static/js/runtime-main.33b57c0b.js.map",
+    "static/js/2.07901dcc.chunk.js": "/project-trivia/static/js/2.07901dcc.chunk.js",
+    "static/js/2.07901dcc.chunk.js.map": "/project-trivia/static/js/2.07901dcc.chunk.js.map",
+    "index.html": "/project-trivia/index.html",
+    "precache-manifest.fe5ce94ac8c53a3639c45c799883ea15.js": "/project-trivia/precache-manifest.fe5ce94ac8c53a3639c45c799883ea15.js",
+    "service-worker.js": "/project-trivia/service-worker.js",
+    "static/css/main.120fb906.chunk.css.map": "/project-trivia/static/css/main.120fb906.chunk.css.map",
+    "static/js/2.07901dcc.chunk.js.LICENSE.txt": "/project-trivia/static/js/2.07901dcc.chunk.js.LICENSE.txt",
+    "static/media/brainhappy.png": "/project-trivia/static/media/brainhappy.4bbb1d74.png",
+    "static/media/brainsad.png": "/project-trivia/static/media/brainsad.0e26df6a.png",
+    "static/media/trivia.png": "/project-trivia/static/media/trivia.466d153e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b57c0b.js",
+    "static/js/2.07901dcc.chunk.js",
+    "static/css/main.120fb906.chunk.css",
+    "static/js/main.9ec7fa84.chunk.js"
+  ]
+}
