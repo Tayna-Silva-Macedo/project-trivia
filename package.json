@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tayna-silva-macedo.github.io/project-trivia/",
   "name": "trivia-react-redux",
   "version": "0.1.0",
   "private": true,
@@ -20,8 +21,8 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "cy": "cypress run",
-    "cy:open": "cypress open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -60,6 +61,7 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-react-redux": "3.3.0",
     "eslint-plugin-sonarjs": "0.5.0",
+    "gh-pages": "^4.0.0",
     "jest-localstorage-mock": "2.4.3",
     "mocha": "^7.2.0",
     "mochawesome": "^6.1.1",
